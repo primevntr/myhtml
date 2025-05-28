@@ -1,0 +1,58 @@
+
+            body {
+                font-family: Arial, sans-serif;
+                margin: 0;
+                padding: 0;
+            }
+            .hero {
+                background-color: #4CAF50;
+                color: white;
+                padding: 50px;
+                font-size: 28px;
+                text-align: center;
+            }
+
+            #myp {
+                font-size: 50px;
+            }
+
+            .features {
+                display: flex;
+                justify-content: space-around;
+                padding: 20px;
+/*                background-color: #f4f4f4;*/
+                 margin-bottom:60px;
+                 margin-top:160px;
+            }
+            .feature {
+                background: white;
+                border: 1px solid gray;
+                border-radius: 5px;
+                padding: 20px;
+                width: 30%;
+                text-align: center;
+
+            }
+            footer {
+                text-align: center;
+                padding: 10px;
+                background-color: #333;
+                color: white;
+                position: relative;
+                bottom: 0;
+                width: 100%;
+            }
+            button {
+                padding: 10px 20px;
+                font-size: 16px;
+                margin-top: 20px;
+                cursor: pointer;
+            }
+
+            #currentYear {
+                font-style: italic;
+            }
+            /*div {
+                background-color: yellow;
+            }*/
+
